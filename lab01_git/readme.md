@@ -47,7 +47,7 @@
 
 ## Working with multiple repositories
 
-### Setup --- Hola
+### Setup
 
 Go into your GitHub account and create a new repository (green button at the right side). Don't initialize the repository, and in the next step say that you are importing an existing repository. Follow the instructions to link load your local repository into github.
 
