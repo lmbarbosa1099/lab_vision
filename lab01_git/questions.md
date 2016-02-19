@@ -1,7 +1,7 @@
 # Warmup Questions
 
 1.  What is the clone url of this repository?
-    >  https://github.com/diego0020/lab_vision/blob/master/lab01_git/questions.md
+    >  https://github.com/lmbarbosa1099/lab_vision
 
 2.  What is the output of the ``cal`` command?
 
@@ -24,10 +24,10 @@
     >   It is located in /boot/grub/grub.cfg
 
 6.  How many files with ``gnu`` in its name are in ``/usr/src`` 
-    >   answer
+    > ubuntu-gnome@ubuntu-gnome:~/Documents/tutorial$ find /usr/src -name gnu |wc -l : 0
 
 7.  How many files contain the word ``gpl`` inside in ``/usr/src``
-    >   answer
+    > ubuntu-gnome@ubuntu-gnome:~/Documents/tutorial$ grep -irm 1 gpl /usr/src | wc -l : 824
 
 8.  What does the ``cut`` command do?
     >   This command is used to extract portion of text from a file by specifying columns. 
@@ -51,7 +51,10 @@
     >   This command is used to link two files. It creates a hard link between both files which is named FILE2
 
 11.  How many users exist in the course server?
-    >   answer
+    >  vision@ing-542:~$ users
+       vision vision vision vision vision vision vision vision vision
+       vision@ing-542:~$ users | wc -w
+       9
 
 12. What command will produce a table of Users and Shells sorted by shell (tip: using ``cut`` and ``sort``)
     >   answer
