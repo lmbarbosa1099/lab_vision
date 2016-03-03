@@ -3,7 +3,7 @@
 
 ## Original Images
 
-These are the original images used to create de hybrid image. Both were taken using an smarthpone with resolution of 20 Mpixels. Here is my boyfriend and me.
+These are the original images used to create de hybrid image. Both were taken using an smarthpone with resolution of 20 Mpixels. These are pictures from by boyfriend and me.
 ![original](original.jpg)
 
 
